@@ -1,0 +1,33 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-image: url(./backgrounds4u/horizon.jpg);
+    background-size: cover;
+}
+.head1{
+    color:honeydew;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+.Loginform{
+    
+    margin-left: 35%;
+    margin-top: 3%;
+    width: 30%;
+    height: 30%;
+    color:black;
+}
+
+#checkcredential{
+    color: red;
+}
+#emailHelp{
+    color: honeydew;
+}
+.navbar-brand{
+font-weight: 700;
+}
