@@ -18,7 +18,7 @@ function validate(callback){
 
 function redirect() {
     
-    location.href = 'index.html';
+    location.href = 'todo.html';
 
 }
 
